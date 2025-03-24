@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre: Maximiliano David Ducoli
-- **Comisión: M2025-13
+- Nombre: Maximiliano David Ducoli
+- Comisión: M2025-13
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
